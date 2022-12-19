@@ -1,0 +1,9 @@
+.navigation-section{
+    background-color: aqua;
+    color: aliceblue;
+    padding: 2rem;
+}
+.navigation-section>a{
+text-decoration: none;
+margin: 1rem;
+}
